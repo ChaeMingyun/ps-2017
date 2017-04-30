@@ -1,0 +1,58 @@
+From d9aef51dd7b2ece985d7fe33a61cebeeb657cf63 Mon Sep 17 00:00:00 2001
+From: "MinGyun(Philip)" <coalsrbs7@gmail.com>
+Date: Sun, 30 Apr 2017 16:25:10 +0900
+Subject: [PATCH] Initial commit
+
+---
+ .gitignore | 29 +++++++++++++++++++++++++++++
+ README.md  |  1 +
+ 2 files changed, 30 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..4581ef2
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,29 @@
++# Compiled Object files
++*.slo
++*.lo
++*.o
++*.obj
++
++# Precompiled Headers
++*.gch
++*.pch
++
++# Compiled Dynamic libraries
++*.so
++*.dylib
++*.dll
++
++# Fortran module files
++*.mod
++*.smod
++
++# Compiled Static libraries
++*.lai
++*.la
++*.a
++*.lib
++
++# Executables
++*.exe
++*.out
++*.app
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..a83bc12
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# ps-2017
+\ No newline at end of file
+-- 
+2.10.1
+
