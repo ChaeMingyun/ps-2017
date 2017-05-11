@@ -123,59 +123,59 @@ ps/fast:
 	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/build
 .PHONY : ps/fast
 
-main.o: main.cpp.o
+9-a-speedCam.o: 9-a-speedCam.cpp.o
 
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/main.cpp.s
-.PHONY : main.cpp.s
-
-thief.o: thief.cpp.o
-
-.PHONY : thief.o
+.PHONY : 9-a-speedCam.o
 
 # target to build an object file
-thief.cpp.o:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/thief.cpp.o
-.PHONY : thief.cpp.o
+9-a-speedCam.cpp.o:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.o
+.PHONY : 9-a-speedCam.cpp.o
 
-thief.i: thief.cpp.i
+9-a-speedCam.i: 9-a-speedCam.cpp.i
 
-.PHONY : thief.i
+.PHONY : 9-a-speedCam.i
 
 # target to preprocess a source file
-thief.cpp.i:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/thief.cpp.i
-.PHONY : thief.cpp.i
+9-a-speedCam.cpp.i:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.i
+.PHONY : 9-a-speedCam.cpp.i
 
-thief.s: thief.cpp.s
+9-a-speedCam.s: 9-a-speedCam.cpp.s
 
-.PHONY : thief.s
+.PHONY : 9-a-speedCam.s
 
 # target to generate assembly for a file
-thief.cpp.s:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/thief.cpp.s
-.PHONY : thief.cpp.s
+9-a-speedCam.cpp.s:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.s
+.PHONY : 9-a-speedCam.cpp.s
+
+9-a-speedCam2.o: 9-a-speedCam2.cpp.o
+
+.PHONY : 9-a-speedCam2.o
+
+# target to build an object file
+9-a-speedCam2.cpp.o:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.o
+.PHONY : 9-a-speedCam2.cpp.o
+
+9-a-speedCam2.i: 9-a-speedCam2.cpp.i
+
+.PHONY : 9-a-speedCam2.i
+
+# target to preprocess a source file
+9-a-speedCam2.cpp.i:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.i
+.PHONY : 9-a-speedCam2.cpp.i
+
+9-a-speedCam2.s: 9-a-speedCam2.cpp.s
+
+.PHONY : 9-a-speedCam2.s
+
+# target to generate assembly for a file
+9-a-speedCam2.cpp.s:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.s
+.PHONY : 9-a-speedCam2.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ps"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
-	@echo "... thief.o"
-	@echo "... thief.i"
-	@echo "... thief.s"
+	@echo "... 9-a-speedCam.o"
+	@echo "... 9-a-speedCam.i"
+	@echo "... 9-a-speedCam.s"
+	@echo "... 9-a-speedCam2.o"
+	@echo "... 9-a-speedCam2.i"
+	@echo "... 9-a-speedCam2.s"
 .PHONY : help
 
 

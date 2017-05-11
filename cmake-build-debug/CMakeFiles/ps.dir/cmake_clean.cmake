@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ps.dir/main.cpp.o"
-  "CMakeFiles/ps.dir/thief.cpp.o"
+  "CMakeFiles/ps.dir/9-a-speedCam.cpp.o"
+  "CMakeFiles/ps.dir/9-a-speedCam2.cpp.o"
   "ps.pdb"
   "ps"
 )
