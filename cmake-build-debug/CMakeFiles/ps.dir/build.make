@@ -57,67 +57,41 @@ include CMakeFiles/ps.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ps.dir/flags.make
 
-CMakeFiles/ps.dir/9-a-speedCam.cpp.o: CMakeFiles/ps.dir/flags.make
-CMakeFiles/ps.dir/9-a-speedCam.cpp.o: ../9-a-speedCam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ps.dir/9-a-speedCam.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ps.dir/9-a-speedCam.cpp.o -c /Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam.cpp
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.o: CMakeFiles/ps.dir/flags.make
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.o: ../12-c-orderedTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ps.dir/12-c-orderedTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ps.dir/12-c-orderedTree.cpp.o -c /Users/chaemingyun/Documents/workspace/ClionProjects/ps/12-c-orderedTree.cpp
 
-CMakeFiles/ps.dir/9-a-speedCam.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ps.dir/9-a-speedCam.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam.cpp > CMakeFiles/ps.dir/9-a-speedCam.cpp.i
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ps.dir/12-c-orderedTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chaemingyun/Documents/workspace/ClionProjects/ps/12-c-orderedTree.cpp > CMakeFiles/ps.dir/12-c-orderedTree.cpp.i
 
-CMakeFiles/ps.dir/9-a-speedCam.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ps.dir/9-a-speedCam.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam.cpp -o CMakeFiles/ps.dir/9-a-speedCam.cpp.s
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ps.dir/12-c-orderedTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chaemingyun/Documents/workspace/ClionProjects/ps/12-c-orderedTree.cpp -o CMakeFiles/ps.dir/12-c-orderedTree.cpp.s
 
-CMakeFiles/ps.dir/9-a-speedCam.cpp.o.requires:
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.requires:
 
-.PHONY : CMakeFiles/ps.dir/9-a-speedCam.cpp.o.requires
+.PHONY : CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.requires
 
-CMakeFiles/ps.dir/9-a-speedCam.cpp.o.provides: CMakeFiles/ps.dir/9-a-speedCam.cpp.o.requires
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.o.provides.build
-.PHONY : CMakeFiles/ps.dir/9-a-speedCam.cpp.o.provides
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.provides: CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.provides.build
+.PHONY : CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.provides
 
-CMakeFiles/ps.dir/9-a-speedCam.cpp.o.provides.build: CMakeFiles/ps.dir/9-a-speedCam.cpp.o
-
-
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.o: CMakeFiles/ps.dir/flags.make
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.o: ../9-a-speedCam2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ps.dir/9-a-speedCam2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ps.dir/9-a-speedCam2.cpp.o -c /Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam2.cpp
-
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ps.dir/9-a-speedCam2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam2.cpp > CMakeFiles/ps.dir/9-a-speedCam2.cpp.i
-
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ps.dir/9-a-speedCam2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam2.cpp -o CMakeFiles/ps.dir/9-a-speedCam2.cpp.s
-
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.requires:
-
-.PHONY : CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.requires
-
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.provides: CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.requires
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.provides.build
-.PHONY : CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.provides
-
-CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.provides.build: CMakeFiles/ps.dir/9-a-speedCam2.cpp.o
+CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.provides.build: CMakeFiles/ps.dir/12-c-orderedTree.cpp.o
 
 
 # Object files for target ps
 ps_OBJECTS = \
-"CMakeFiles/ps.dir/9-a-speedCam.cpp.o" \
-"CMakeFiles/ps.dir/9-a-speedCam2.cpp.o"
+"CMakeFiles/ps.dir/12-c-orderedTree.cpp.o"
 
 # External object files for target ps
 ps_EXTERNAL_OBJECTS =
 
-ps: CMakeFiles/ps.dir/9-a-speedCam.cpp.o
-ps: CMakeFiles/ps.dir/9-a-speedCam2.cpp.o
+ps: CMakeFiles/ps.dir/12-c-orderedTree.cpp.o
 ps: CMakeFiles/ps.dir/build.make
 ps: CMakeFiles/ps.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ps"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ps.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -125,8 +99,7 @@ CMakeFiles/ps.dir/build: ps
 
 .PHONY : CMakeFiles/ps.dir/build
 
-CMakeFiles/ps.dir/requires: CMakeFiles/ps.dir/9-a-speedCam.cpp.o.requires
-CMakeFiles/ps.dir/requires: CMakeFiles/ps.dir/9-a-speedCam2.cpp.o.requires
+CMakeFiles/ps.dir/requires: CMakeFiles/ps.dir/12-c-orderedTree.cpp.o.requires
 
 .PHONY : CMakeFiles/ps.dir/requires
 

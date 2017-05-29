@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam.cpp
-
-/Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam2.cpp
+/Users/chaemingyun/Documents/workspace/ClionProjects/ps/12-c-orderedTree.cpp
 iostream
 -
-string.h
+vector
 -
 

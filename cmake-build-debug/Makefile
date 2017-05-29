@@ -123,59 +123,32 @@ ps/fast:
 	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/build
 .PHONY : ps/fast
 
-9-a-speedCam.o: 9-a-speedCam.cpp.o
+12-c-orderedTree.o: 12-c-orderedTree.cpp.o
 
-.PHONY : 9-a-speedCam.o
-
-# target to build an object file
-9-a-speedCam.cpp.o:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.o
-.PHONY : 9-a-speedCam.cpp.o
-
-9-a-speedCam.i: 9-a-speedCam.cpp.i
-
-.PHONY : 9-a-speedCam.i
-
-# target to preprocess a source file
-9-a-speedCam.cpp.i:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.i
-.PHONY : 9-a-speedCam.cpp.i
-
-9-a-speedCam.s: 9-a-speedCam.cpp.s
-
-.PHONY : 9-a-speedCam.s
-
-# target to generate assembly for a file
-9-a-speedCam.cpp.s:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam.cpp.s
-.PHONY : 9-a-speedCam.cpp.s
-
-9-a-speedCam2.o: 9-a-speedCam2.cpp.o
-
-.PHONY : 9-a-speedCam2.o
+.PHONY : 12-c-orderedTree.o
 
 # target to build an object file
-9-a-speedCam2.cpp.o:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.o
-.PHONY : 9-a-speedCam2.cpp.o
+12-c-orderedTree.cpp.o:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/12-c-orderedTree.cpp.o
+.PHONY : 12-c-orderedTree.cpp.o
 
-9-a-speedCam2.i: 9-a-speedCam2.cpp.i
+12-c-orderedTree.i: 12-c-orderedTree.cpp.i
 
-.PHONY : 9-a-speedCam2.i
+.PHONY : 12-c-orderedTree.i
 
 # target to preprocess a source file
-9-a-speedCam2.cpp.i:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.i
-.PHONY : 9-a-speedCam2.cpp.i
+12-c-orderedTree.cpp.i:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/12-c-orderedTree.cpp.i
+.PHONY : 12-c-orderedTree.cpp.i
 
-9-a-speedCam2.s: 9-a-speedCam2.cpp.s
+12-c-orderedTree.s: 12-c-orderedTree.cpp.s
 
-.PHONY : 9-a-speedCam2.s
+.PHONY : 12-c-orderedTree.s
 
 # target to generate assembly for a file
-9-a-speedCam2.cpp.s:
-	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/9-a-speedCam2.cpp.s
-.PHONY : 9-a-speedCam2.cpp.s
+12-c-orderedTree.cpp.s:
+	$(MAKE) -f CMakeFiles/ps.dir/build.make CMakeFiles/ps.dir/12-c-orderedTree.cpp.s
+.PHONY : 12-c-orderedTree.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ps"
-	@echo "... 9-a-speedCam.o"
-	@echo "... 9-a-speedCam.i"
-	@echo "... 9-a-speedCam.s"
-	@echo "... 9-a-speedCam2.o"
-	@echo "... 9-a-speedCam2.i"
-	@echo "... 9-a-speedCam2.s"
+	@echo "... 12-c-orderedTree.o"
+	@echo "... 12-c-orderedTree.i"
+	@echo "... 12-c-orderedTree.s"
 .PHONY : help
 
 

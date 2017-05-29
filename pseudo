@@ -1,0 +1,30 @@
+Variable dp[][], t, N , d, a, b, cnt(트리개수), sum(사용한 노드 수)
+
+For i = 1..16
+Dp[i][0]= 1, dp[1][i] = 1
+For i = 2..16
+For j = 1…17-i
+For k = 0 ..j
+Dp[i][j] += dp[i-1][k]
+
+Read t -> 테스트케이스
+
+While t—
+Read N. d -> 노드 개수,노드 개수 알고 있는 깊이
+A =1, cnt =1, sum =0
+For i = 0..d
+Read b -> 노드 개수
+Cnt *= dp[a][b], a= b, sum +=b
+
+If N - sum > 0
+Cnt *= countCase(b, N-sum)
+
+Print cnt
+
+CountCase(last, n)
+If n == 0
+Return 1
+Res = 0
+For i = 1..n
+Res += dp[last][I] * countCase(I,n-i)
+Return res

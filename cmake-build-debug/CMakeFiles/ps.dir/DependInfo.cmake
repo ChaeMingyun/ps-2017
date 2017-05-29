@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam.cpp" "/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles/ps.dir/9-a-speedCam.cpp.o"
-  "/Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam2.cpp" "/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles/ps.dir/9-a-speedCam2.cpp.o"
+  "/Users/chaemingyun/Documents/workspace/ClionProjects/ps/12-c-orderedTree.cpp" "/Users/chaemingyun/Documents/workspace/ClionProjects/ps/cmake-build-debug/CMakeFiles/ps.dir/12-c-orderedTree.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

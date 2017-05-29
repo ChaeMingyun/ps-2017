@@ -82,10 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam.cpp">
-			<Option target="ps"/>
-		</Unit>
-		<Unit filename="/Users/chaemingyun/Documents/workspace/ClionProjects/ps/9-a-speedCam2.cpp">
+		<Unit filename="/Users/chaemingyun/Documents/workspace/ClionProjects/ps/12-c-orderedTree.cpp">
 			<Option target="ps"/>
 		</Unit>
 		<Unit filename="/Users/chaemingyun/Documents/workspace/ClionProjects/ps/CMakeLists.txt">
