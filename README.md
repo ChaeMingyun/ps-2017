@@ -1,2 +1,2 @@
 # ps-2017
-## *문제해결기법* 수업을 들으며 공부한 내용을 정리하는 저장소 입니다.
+## coes from Troubleshooting Techniques course in 2017 Inha Univ
